@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875945219300",
+    "project_id": "jantri-color-app",
+    "storage_bucket": "jantri-color-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875945219300:android:1fcd5899c5574e3fda08f1",
+        "android_client_info": {
+          "package_name": "com.example.jantricolorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhhBKF1eUL4E9MAqJwTEFXamNfGlJUezY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
